@@ -1,6 +1,6 @@
 # Logs Cleanup Data
 
-Logs Cleanup Data is a simple PHP package for managing and working with logs. 
+Logs Cleanup Data is a simple PHP package for managing and working with logs.
 
 ## Installation
 
@@ -18,6 +18,7 @@ The project is written in PHP and uses PHPUnit for testing. To run the project a
 
 ## Additional content
 In addition to deleting logs, I've added some simple log management features that you'll find in FileLogger
+I implemented file log management. I took care of the possibility of future development with database logs.
 
 ## Running Tests
 ```bash
