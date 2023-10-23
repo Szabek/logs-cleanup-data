@@ -8,6 +8,7 @@
     }
   },
   "require-dev": {
+    "php": ">=8.2",
     "phpunit/phpunit": "^10.4"
   }
 }
