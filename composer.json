@@ -1,0 +1,13 @@
+{
+  "name": "szabson/logs-cleanup-data",
+  "description": "Logs Cleanup Data Project",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Szabson\\LogsCleanupData\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.4"
+  }
+}
