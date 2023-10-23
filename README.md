@@ -7,7 +7,7 @@ Logs Cleanup Data is a simple PHP package for managing and working with logs.
 You can install this package via Composer. Run the following command to add it to your project:
 
 ```bash
-composer require szabson/logs-cleanup-data
+composer require szabson/logs-cleanup-data:dev-master
 ````
 
 ## Example Usage
